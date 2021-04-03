@@ -6,4 +6,4 @@ secret = 'PKgsj8ORsebCivylOnM0pbaKqHHv9NKK38Ar3tBFtsx1g'
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(key, secret)
 api = tweepy.API(auth)
-api.update_status('First tweet by Cloudy_bot')
+api.update_status('Hello Twitter i am cloudy the Bot')
