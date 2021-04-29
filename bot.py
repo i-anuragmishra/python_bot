@@ -3,10 +3,7 @@ import urllib
 import sys
 import time
 import tweepy
-consumer_key = 'IfJZVRHEUajEvQXa3nMdke7cq'
-consumer_secret = 'B2c1wjpJdDS34x5c3wqOgQ3o64KydTWIVWZdiI7Xnhaqr9rU2T'
-key = '1131296400749154304-7JIXZhqfYiEE32m35vQuUCg1R4s8uQ'
-secret = 'PKgsj8ORsebCivylOnM0pbaKqHHv9NKK38Ar3tBFtsx1g'
+
 # enter the corresponding information from your Twitter application/Forecast.io API KEY/lat and long:
 CONSUMER_KEY = 'YOUR_CONSUMER_KEY'
 CONSUMER_SECRET = 'YOUR_CONSUMER_SECRET'
